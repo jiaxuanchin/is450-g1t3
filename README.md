@@ -1,6 +1,6 @@
 # NLP and Text Mining on Stack Overflow Data
 Developed by G1T3 for IS450 - Text Mining and Analytics in AY2023-24 Term 2.
-Click on this link to view the datasets `https://github.com/jiaxuanchin/is450-g1t3.git`
+Click on this link to view the datasets `https://drive.google.com/drive/folders/1VTxC9AcTgzhghZd0REzfHZF6KLZwE5PU?usp=sharing`
 
 ## Overview
 

@@ -25,6 +25,34 @@ For further instruction on how to run the GPU:
 2. If you would like to view the topic visualisation, you may download the file named 'topic_viz.html' and open it via the download folder on your laptop.
 
 #### PTM4Tag Model
+To train the model:
+1. SSH into the GPU server
+2. Once in the notebook, click into "ptm4tag_jolene.ipynb".
+3. Run all the rows. Currently, the number of rows to train is set to 1 for testing purposes.
+4. The data rows are saved as tensors in data folder.
+5. The model is saved in "./results/save_me/epoch-2-file-0".
+
+To test the model:
+1. SSH into the GPU server
+2. Once in the notebook, click into "ptm4tag_test.ipynb".
+3. Run all the rows. Currently, the number of rows to test is set to 1 for testing purposes.
+4. The results are saved in "test_results" folder in "result.csv".
+
+Folder structure:
+|
+|__ ptm4tag_jolene.ipynb  - to train the model
+|__ ptm4tag_test.ipynb    - to test the model
+|__ data
+    |_____ tensor_data    - to save training data tensors
+    |_____ test_tensor    - to save test data tensors
+    |_____ tags_vocab     - to save unique tags (Vocabulary of tags)
+|__ save_me
+    |_____ epoch-0-file-0
+    |_____ epoch-1-file-0
+    |_____ epoch-2-file-0  - to save the final model
+|__ test_results
+    |_____ result.csv      - to save the test results after testing
+
 
 #### OVR Classifier with LinearSVC
 The code for this model can be found in the [ovr_classifier_linearSVC.ipynb](./ovr_classifier_linearSVC.ipynb).

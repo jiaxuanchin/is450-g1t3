@@ -63,10 +63,10 @@ Below is a step-by-step on how to run the code on the GPU:
 6. Open a new terminal / Command Prompt window and run the SSH command given
 7. Enter the URL in a browser and operate as a normal Jupyter notebook. Run the relevant python notebook to train and run the model.
 
-#### KMeans 
-
-#### k-Nearest Neighbours
-
+#### KMeans  & k-Nearest Neighbours
+1. Download the file "K_Means_&_KNN_Model.ipynb" and upload it onto your google drive.
+2. Open it via google colab and click on run all.
+   
 #### Neural Network
 1. Download the file "Reranking_model_NN.ipynb" and upload it onto your google drive.
 2. Open it via google colab and click on run all.

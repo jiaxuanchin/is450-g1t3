@@ -39,19 +39,7 @@ To test the model:
 4. The results are saved in "test_results" folder in "result.csv".
 
 Folder structure:
-|
-|__ ptm4tag_jolene.ipynb  - to train the model
-|__ ptm4tag_test.ipynb    - to test the model
-|__ data
-    |_____ tensor_data    - to save training data tensors
-    |_____ test_tensor    - to save test data tensors
-    |_____ tags_vocab     - to save unique tags (Vocabulary of tags)
-|__ save_me
-    |_____ epoch-0-file-0
-    |_____ epoch-1-file-0
-    |_____ epoch-2-file-0  - to save the final model
-|__ test_results
-    |_____ result.csv      - to save the test results after testing
+![image](https://github.com/jiaxuanchin/is450-g1t3/assets/114128066/3b39f1c0-74c6-4fd3-b585-54c6a06f1654)
 
 
 #### OVR Classifier with LinearSVC

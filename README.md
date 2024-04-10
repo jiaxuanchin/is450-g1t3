@@ -12,7 +12,7 @@ Ensure you have `Cisco Secure Client` or `ClearPass` setup.
 #### GPU setup
 To connect to the GPU, please follow these steps:
 - Connect to the Cisco secure network "svmpun2.smu.edu.sg/SMUVPN"
-- After successful connecting, open up your command prompt and enter the details of the GPU account.
+- After successful connecting, open up your command prompt and key in the userid `ssh IS450G2@origami.smu.edu.sg` and password
 
 For further instruction on how to run the GPU:
 - GPU Cluster documentation can be located at https://violet.smu.edu.sg/origami

@@ -39,6 +39,7 @@ To test the model:
 4. The results are saved in "test_results" folder in "result.csv".
 
 Folder structure:
+
 ![image](https://github.com/jiaxuanchin/is450-g1t3/assets/114128066/3b39f1c0-74c6-4fd3-b585-54c6a06f1654)
 
 

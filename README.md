@@ -40,6 +40,8 @@ To test the model:
 3. Run all the rows. Currently, the number of rows to test is set to 1 for testing purposes.
 4. The results are saved in "test_results" folder in "result.csv".
 
+**Note: We will need to use the GPU to run Custom PTM4Tag. The FINAL.csv dataset can be found in the google drive.**
+
 Folder structure:
 
 ![image](https://github.com/jiaxuanchin/is450-g1t3/assets/114128066/3b39f1c0-74c6-4fd3-b585-54c6a06f1654)

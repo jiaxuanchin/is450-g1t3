@@ -21,6 +21,8 @@ For further instruction on how to run the GPU:
 
 ### Usage
 #### LDA Model
+1. Download the file 'LDA Model.ipynb' and under the 'Cell' tab on Jupyter Notebook, select 'Run All'
+2. If you would like to view the topic visualisation, you may click on the 'topic_viz.html' file.
 
 #### PTM4Tag Model
 
